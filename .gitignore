@@ -1,0 +1,14 @@
+# mac 
+*._*
+
+# VSCode
+.vscode 
+
+# node.js
+#
+node_modules/
+
+# misc
+.DS_Store
+npm-debug.log*
+yarn-error.log
